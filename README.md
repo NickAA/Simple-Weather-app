@@ -1,6 +1,6 @@
 # Simple Weather app
 
-![image](https://github.com/NickAA/Simple-Weather-app/assets/113847699/9188f2cb-916a-40cd-b38a-e73ac2d75c62)
+![image](https://github.com/NickAA/Simple-Weather-app/assets/113847699/1eb81558-fd96-428b-8632-21d656b6f9ce)
 
 This project is used to display the weather at any location
 
