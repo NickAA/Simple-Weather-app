@@ -18,6 +18,8 @@ async function getTemp(location) {
         {
             weatherContent[2].textContent = `${data.current.temp_f}°F`
         }
+
+        weatherContent[3].textContent = `${data.current.condition.text}, ${(data.current.is_day ? "day time" : "night time")}`
     }
     catch (err)
     {
