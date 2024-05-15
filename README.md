@@ -1,10 +1,12 @@
 # Simple Weather app
 
-This project is used to display the weather at a specific location
+![image](https://github.com/NickAA/Simple-Weather-app/assets/113847699/9188f2cb-916a-40cd-b38a-e73ac2d75c62)
+
+This project is used to display the weather at any location
 
 ## How To Use
 
-To clone and run this web app, you'll need git and Node.js installed on you computer.
+To clone and run this web app, you'll need git and Node.js installed on your computer.
 From your command line enter:
 
 ```unix
@@ -14,7 +16,7 @@ From your command line enter:
 # Enter repository
   cd Simple-Weather-app
 
-# Install packages required for weather app
+# Install packages required for the weather app
   npm install
 
 # Run the web app
